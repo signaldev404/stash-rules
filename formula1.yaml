@@ -24,3 +24,4 @@ payload:
   # --- AWS 实时 Telemetry & 数据分析服务 ---
   - '.formula1-telemetry.com'
   - '.formula1-auth.com'
+  - '.evergage.com'
