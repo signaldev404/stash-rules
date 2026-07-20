@@ -1,2 +1,26 @@
 payload:
-  - 'api.formula1.com'
+  # --- F1 官方主站与 API ---
+  - '.formula1.com'
+  - '.f1.com'
+  - '.f1pro.com'
+  - '.f1corporate.com'
+  
+  # --- F1 TV 视频播放与鉴权 ---
+  - '.f1tv.formula1.com'
+  - '.f1tv.f1.com'
+  
+  # --- 身份认证 & OAuth (Gigya / Identity) ---
+  - '.gigya.com'
+  - '.identity.formula1.com'
+  
+  # --- 视频 CDN & 流媒体服务商 (Tata, Endeavor, Bitmovin) ---
+  - '.f1-live.net'
+  - '.f1esports.com'
+  - '.tatacommunications.com'
+  - '.bitmovin.com'
+  - '.uplynk.com'
+  - '.m3u8.formula1.com'
+  
+  # --- AWS 实时 Telemetry & 数据分析服务 ---
+  - '.formula1-telemetry.com'
+  - '.formula1-auth.com'
