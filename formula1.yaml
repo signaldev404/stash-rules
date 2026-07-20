@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX,formula1.com
+  - DOMAIN-SUFFIX,api.formula1.com
+  - DOMAIN-SUFFIX,livetiming.formula1.com
+  - DOMAIN-SUFFIX,watchliveformula1.com
+  - DOMAIN-SUFFIX,f1tv.formula1.com
+  - DOMAIN-SUFFIX,account.formula1.com
+  - DOMAIN-SUFFIX,auth.formula1.com
+  - DOMAIN-SUFFIX,media.formula1.com
