@@ -1,7 +1,5 @@
-payload:
- 
+payload: 
   # --- F1 官方主站与 API ---
-  - '.giffgaff.com'
   - '.formula1.com'
   - '.f1.com'
   - '.f1pro.com'
