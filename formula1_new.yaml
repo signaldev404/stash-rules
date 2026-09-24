@@ -1,0 +1,21 @@
+payload:
+  # ====== 官方主域与核心 API（包含 Live Timing 实时推送） ======
+  - '+.formula1.com'
+  - '+.f1.com'
+  - '+.f1pro.com'
+  - '+.f1corporate.com'
+  - '+.f1-live.net'
+  - '+.f1esports.com'
+
+  # ====== 视频流分发与专用 CDN ======
+  - '+.f1prodlive.akamaized.net'
+  - '+.f1vodlive.akamaized.net'
+  - '+.uplynk.com'
+  - '+.bitmovin.com'
+  - '+.tatacommunications.com'
+
+  # ====== 认证鉴权与第三方用户体系 ======
+  - '+.gigya.com'
+  - '+.evergage.com'
+  - '+.formula1-telemetry.com'
+  - '+.formula1-auth.com'
